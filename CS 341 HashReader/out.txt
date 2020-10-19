@@ -1,0 +1,4 @@
+This File Contains the LOC, number of keywords, and time it took to read your file
+The number of executable lines of code (LOC) is: 111
+The number of key words in your code (LOC) is: 106
+The time it took to read the file and perform the counts is: 13 milliseconds
