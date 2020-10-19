@@ -40,6 +40,7 @@ public class LOCmain {
 
 	/**
 	 * Create the application.
+	 * 
 	 */
 	public LOCmain() {
 		initialize();
